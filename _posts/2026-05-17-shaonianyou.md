@@ -1,5 +1,6 @@
 ---
-title: 少年游 · 终不似
+layout: post
+title: "少年游 · 终不似"
 date: 2026-05-17 12:00:00 +0800
 categories: [随笔, 诗词]
 tags: [人生, 叹往事]
