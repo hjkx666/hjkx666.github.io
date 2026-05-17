@@ -22,7 +22,7 @@ tags: [人生, 叹往事]
 <div style="text-align: center; margin: 10px auto 50px auto; max-width: 320px; padding: 18px; border: 1px solid #eef0f2; border-radius: 20px; background: #ffffff; box-shadow: 0 4px 20px rgba(187, 164, 118, 0.08);">
   
   <div style="font-size: 0.85em; color: #bba476; margin-bottom: 12px; letter-spacing: 2px; font-weight: bold;">
-    🎵 背景音乐 · 琵琶语 (或自定义)
+    🎵 背景音乐
   </div>
   
   <audio controls controlsList="nodownload" style="width: 100%; height: 36px; outline: none;">
@@ -31,7 +31,7 @@ tags: [人生, 叹往事]
   </audio>
   
 </div>
-### 卷首语
+### 感言
 
 人生的下半场，我们总是在不经意间转头，试图在记忆里搜寻那个白衣飘飘的少年。
 可惜，客店里的桂花酒依然香醇，共饮的人却早已散落天涯。
